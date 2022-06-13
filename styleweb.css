@@ -1,0 +1,398 @@
+body,
+html,
+header,
+h1 {
+    margin: 0px;
+    padding: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header,
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    background: url("adidas-yeezy-foam-runner-white.jpg") no-repeat;
+    background-size: cover;
+    background-color: white;
+}
+
+.wrapper {
+    display: table;
+    width: 100%;
+    height: 100%;
+    bottom: 0%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 65px;
+    vertical-align: text-top;
+}
+
+h2 {
+    position: absolute;
+    font-size: 50px;
+    float: left;
+    vertical-align: bottom;
+    bottom: 0%;
+    color: white;
+    text-shadow: 1px 1px 10px black;
+}
+
+h3 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20%;
+    margin-bottom: 30%;
+    color: white;
+    text-shadow: 1px 1px 10px black;
+}
+
+.subtitle {
+    font-size: 30px;
+}
+
+
+@media screen and (min-width: 400px) and (max-width: 415px) {
+    h2 {
+        margin-bottom: -128.5%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 416px) and (max-width: 430px) {
+    h2 {
+        margin-bottom: -124%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 431px) and (max-width: 450px) {
+    h2 {
+        margin-bottom: -118.5%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 451px) and (max-width: 469px) {
+    h2 {
+        margin-bottom: -115.5%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 470px) and (max-width: 485px) {
+    h2 {
+        margin-bottom: -97.5%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 486px) and (max-width: 500px) {
+    h2 {
+        margin-bottom: -93.5%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 502px) {
+    h2 {
+        margin-bottom: -91%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 503px) and (max-width: 510px) {
+    h2 {
+        margin-bottom: -82%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 511px) and (max-width: 520px) {
+    h2 {
+        margin-bottom: -82%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 521px) and (max-width: 530px) {
+    h2 {
+        margin-bottom: -80%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 531px) and (max-width: 540px) {
+    h2 {
+        margin-bottom: -77.5%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 541px) and (max-width: 550px) {
+    h2 {
+        margin-bottom: -75%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 551px) and (max-width: 560px) {
+    h2 {
+        margin-bottom: -73%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 561px) and (max-width: 570px) {
+    h2 {
+        margin-bottom: -71%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 571px) and (max-width: 580px) {
+    h2 {
+        margin-bottom: -70%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 581px) and (max-width: 590px) {
+    h2 {
+        margin-bottom: -69%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 591px) and (max-width: 595px) {
+    h2 {
+        margin-bottom: -69%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 596px) and (max-width: 597px) {
+    h2 {
+        margin-bottom: -68%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 598px) and (max-width: 600px) {
+    h2 {
+        margin-bottom: -60%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 625px) {
+    h2 {
+        margin-bottom: -58%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 626px) and (max-width: 650px) {
+    h2 {
+        margin-bottom: -56%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 651px) and (max-width: 675px) {
+    h2 {
+        margin-bottom: -53%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 676px) and (max-width: 700px) {
+    h2 {
+        margin-bottom: -50%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 701px) and (max-width: 712px) {
+    h2 {
+        margin-bottom: -49%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 713px) and (max-width: 725px) {
+    h2 {
+        margin-bottom: -42%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 726px) and (max-width: 750px) {
+    h2 {
+        margin-bottom: -40%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 751px) and (max-width: 775px) {
+    h2 {
+        margin-bottom: -38%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
+
+@media screen and (min-width: 776px) and (max-width: 800px) {
+    h2 {
+        margin-bottom: -37%;
+    }
+
+    .wrapper {
+        display: table;
+        width: 100%;
+        height: 200%;
+    }
+}
